@@ -9,3 +9,4 @@ commit1 for feature.
 commit2 for feature.
 
 change commit for feature2.
+change commit2 for feature2.
